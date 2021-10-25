@@ -117,7 +117,6 @@ end)
 Section.Active = true
 Section.Draggable = true
 end
-local newWindow = createWindow("this is the new ui library window so deal with it B)")
 function createTab(tabName)
 local tabFrame = Instance.new("ScrollingFrame")
 local UIListLayout = Instance.new("UIListLayout")
